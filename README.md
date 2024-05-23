@@ -1,4 +1,4 @@
-# LangChain Course Directory Overview
+# LangChain basics Overview
 
 This Markdown file provides a concise overview of each directory in the LangChain course, detailing the key focus and content of each.
 
